@@ -24,8 +24,6 @@ Wireshark was used to apply protocol filters (e.g., DNS, TCP, IP), review flow g
 - Traffic anomaly detection
 - Digital forensics fundamentals
 
-## Screenshots
-*(Add screenshots of packet captures, flow graphs, or filter examples here)*
 
 ## Author
 James Darling  
